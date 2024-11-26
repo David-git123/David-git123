@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá eu sou David Magalhães!
 
-<!--
-**David-git123/David-git123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Estudante de Ciência da Computação na CESAR school, Atualmente no primeiro período.  Gosto de desbravar o mundo do desenvolvimento de software, principalmente aprendendo novas liguagens de programação e soluções para problemas cotidianos ultilizando mecanismos digitais
 
-Here are some ideas to get you started:
+### Principais interesses atualmente:
+- Desenvolvimento web
+- Aplicações Iot
+- Desenvolvimento backend
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Links para contato:
+
+- [Linkedin](https://www.linkedin.com/in/davidmpo/)
+
